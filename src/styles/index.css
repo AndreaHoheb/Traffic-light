@@ -10,3 +10,45 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+.Traffic {
+background-color: black;
+width: 100px;
+height: 200px;
+justify-content: center;
+
+}
+
+.light {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(62, 62, 203);
+    justify-items: center;
+}
+
+.red {
+    background-color: red;
+    border-radius: 50%;
+    width: 60px;
+    height: 50px;
+}
+
+.yellow {
+    background-color: yellow;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.green {
+    background-color: green;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.glow{
+box-shadow: 0px 0px 10px 10px #535FED;
+}
