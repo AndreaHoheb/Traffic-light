@@ -16,7 +16,7 @@
 background-color: black;
 width: 100px;
 height: 200px;
-justify-content: center;
+margin: auto;
 
 }
 
@@ -25,30 +25,27 @@ justify-content: center;
     width: 50px;
     height: 50px;
     background-color: rgb(62, 62, 203);
-    justify-items: center;
+    margin: auto;
 }
 
 .red {
     background-color: red;
     border-radius: 50%;
-    width: 60px;
-    height: 50px;
+    color: red;
 }
 
 .yellow {
     background-color: yellow;
     border-radius: 50%;
-    width: 50px;
-    height: 50px;
+
+
 }
 
 .green {
     background-color: green;
     border-radius: 50%;
-    width: 50px;
-    height: 50px;
 }
 
 .glow{
-box-shadow: 0px 0px 10px 10px #535FED;
+box-shadow: 0px 0px 10px 10px #5c66d3;
 }
